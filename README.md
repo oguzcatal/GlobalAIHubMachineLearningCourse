@@ -6,13 +6,13 @@
 **Surname:** Çatal  
 **Email:** oguzcatal@gmail.com  
 
-This repository is for holding information about homeworks and project of Global AI Hub - "Introduction to Python Programming Course". Descriptions of the project are elaborated below.
+This repository is for holding information about homeworks and project of Global AI Hub - "Introduction to Machine Learning Course". Descriptions of the project are elaborated below.
 
-## Paying You!
-This is a knowledge contest. simply, it includes 10 questions which are chosen by randomly from the source and have only one correct answer. In the end contestant is deemed successful or not according the amount of correct answer(>5).
+## Default
+Explain
 
 ## Requirements
-The source file for questions is avaliable to download in /Final Project. Alternatively, you can choose another source for questions if you wish.
+ 
 ```
 import pandas as pd
 import random
